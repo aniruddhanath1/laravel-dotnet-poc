@@ -1,0 +1,6 @@
+@laravel_HostAddress = http://localhost:5126
+
+GET {{laravel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
